@@ -1,4 +1,5 @@
 # pbrn-auth
+[![Build Status](https://travis-ci.com/MUHC-DP-Project/pbrn-auth.svg?branch=main)](https://travis-ci.com/MUHC-DP-Project/pbrn-auth)
 ## Purpose 
 
 pbrn-auth is a microservice serving as the main source for user authentication. This service serves as the key handshake necessary by a client before the muhc-gateway and microservices suite can be accessed.
